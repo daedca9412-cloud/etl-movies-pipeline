@@ -14,6 +14,23 @@ Análisis exploratorio con visualizaciones (histogramas, distribuciones, correla
 
 Monitoreo mediante logging.
 
+## 📂 Dataset
+
+Este proyecto utiliza el dataset **MovieLens** para las pruebas de ETL.
+
+- Fuente: [MovieLens Dataset (GroupLens)](https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset)  
+- Archivos requeridos:
+  - `movies.csv`
+  - `ratings.csv`
+
+### Cómo preparar los datos
+1. Descarga los archivos desde el enlace oficial.
+2. Colócalos en la carpeta raíz del proyecto (junto al código).
+3. Asegúrate de mantener los nombres de archivo tal como aparecen en el código:
+   - `movie.csv`
+   - `rating.csv`
+
+
 ⚙️ Requisitos
 
 Python 3.8+

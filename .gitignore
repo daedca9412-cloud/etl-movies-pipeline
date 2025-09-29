@@ -1,0 +1,14 @@
+# Ignorar datasets grandes
+*.csv
+*.xlsx
+
+# Ignorar archivos temporales de Jupyter
+.ipynb_checkpoints/
+
+# Ignorar cachés de Python
+__pycache__/
+*.pyc
+
+# Ignorar entornos virtuales
+.env/
+.venv/
