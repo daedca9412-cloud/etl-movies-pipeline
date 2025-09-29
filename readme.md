@@ -118,4 +118,4 @@ Despliegue en la nube (AWS, GCP, Azure).
 
 👨‍💻 Autor
 
-Proyecto desarrollado por [Tu Nombre], como práctica de ETL y análisis de datos aplicado a ingeniería electrónica y ciencia de datos.
+Proyecto desarrollado por Daniel Castiblanco, como práctica de ETL y análisis de datos aplicado a ingeniería electrónica y ciencia de datos.
